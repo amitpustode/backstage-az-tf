@@ -26,8 +26,8 @@ terraform {
 provider "azurerm" {
   features {}
   #skip_provider_registration = true  //# Optional: skip auto-registration of resource providers (can speed up things, but not always recommended)
-subscription_id = "amit"
-tenant_id = "amit"
-client_id = "amit"
-client_secret = "amit"
+  subscription_id = "amit"
+  tenant_id = "amit"
+  client_id = "amit"
+  client_secret = "amit"
 }
