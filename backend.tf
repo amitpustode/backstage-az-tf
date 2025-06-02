@@ -2,8 +2,8 @@
 #  backend "azurerm" {}
 #}
 
-resource_group_name = "ff"
-storage_account_name = "ff"
-container_name = "ff"
-key = "ff"
+resource_group_name = "vvvvvvv"
+storage_account_name = "vvvvvvv"
+container_name = "vvvvvvvv"
+key = "vvvvvf"
 access_key = "dfghgggggggggggggggggggg"
