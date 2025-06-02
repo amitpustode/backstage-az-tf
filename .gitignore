@@ -1,0 +1,12 @@
+## .terraform directory where Terraform stores its plugins and module cache
+.terraform/
+## Local Terraform state files
+*.tfstate
+*.tfstate.*
+## Crash log files
+.crash.log
+## Terraform plan files
+*.tfplan
+*.tfplan.*
+## .terraform.lock.hcl file (if using Terraform 0.14+)
+.terraform.lock.hcl
