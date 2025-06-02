@@ -2,8 +2,8 @@
 #  backend "azurerm" {}
 #}
 
-resource_group_name   = "vaw-devsecopsinfra-rg"
-storage_account_name  = "tfdevsecopssa"
-container_name        = "tfstatevaw"
-key                   = "testfd/dev-terraform.tfstate"
-access_key            = "xxxxxxxxxxxxxxxxxxxxxxxx"
+  resource_group_name = "test-rg"
+  storage_account_name = "test-sa"
+  container_name = "test-ca"
+  key = "tfstatefile/terraform.tfstate"
+  key = "tfstatefile/terraform.tfstate"
