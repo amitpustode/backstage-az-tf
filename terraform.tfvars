@@ -1,5 +1,4 @@
 environment                = "dev"
 resource_group_location    = "eastus"
 product_name               = "devsecops"
-app_name                   = "mydevtestapp"  azure_region = "eastus"
-  environment_name = "prod"
+app_name                   = "mydevtestapp"
