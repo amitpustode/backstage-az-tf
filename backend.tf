@@ -1,5 +1,0 @@
-resource_group_name   = "vaw-devsecopsinfra-rg"
-storage_account_name  = "tfdevsecopssa"
-container_name        = "tfstatevaw"
-key                   = "testfd/dev-terraform.tfstate"
-access_key            = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
