@@ -1,2 +1,2 @@
-azure_region = "eastus"
-environment_name = "qa"
+  azure_region = "eastus"
+  environment_name = "qa"
