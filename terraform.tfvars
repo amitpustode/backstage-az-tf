@@ -1,4 +1,4 @@
-environment                = "dev"
-resource_group_location    = "eastus"
-product_name               = "devsecops"
-app_name                   = "mydevtestapp"
+environment = "stage"
+resource_group_location = "rg"
+product_name = "dso"
+app_name = "vaw"

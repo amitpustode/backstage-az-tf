@@ -2,8 +2,8 @@
 #  backend "azurerm" {}
 #}
 
-resource_group_name  = "test-rg"
-storage_account_name = "test-sa"
-container_name       = "test-ca"
-key                  = "testfd/dev-terraform.tfstate"
-access_key           = "xxxxxxxxxxxxxxxxxxxxxxxx"
+resource_group_name = "ff"
+storage_account_name = "ff"
+container_name = "ff"
+key = "ff"
+access_key = "dfghgggggggggggggggggggg"
