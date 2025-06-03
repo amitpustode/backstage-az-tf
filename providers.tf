@@ -26,8 +26,8 @@ terraform {
 provider "azurerm" {
   features {}
   #skip_provider_registration = true
-  subscription_id = "xxxxxx-xxxx-xxxxx-xxxxx-xxxxxxx"
-  tenant_id = "xxxxxx-xxxx-xxxxx-xxxxx-xxxxxxx"
-  client_id = "xxxxxx-xxxx-xxxxx-xxxxx-xxxxxxx"
-  client_secret = "xxxxxx-xxxx-xxxxx-xxxxx-xxxxxxx"
+  subscription_id = var.subscription_id
+  tenant_id       = var.tenant_id
+  client_id       = var.client_id
+  client_secret   = var.client_secret
 }
