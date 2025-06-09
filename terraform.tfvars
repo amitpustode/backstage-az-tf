@@ -4,6 +4,6 @@ client_id       = "xxxx-xxxx-xxxx-xxxx-xxxxxxxx"
 client_secret   = "xxxx-xxxx-xxxx-xxxx-xxxxxxxx"
 
 environment = "dev"
-resource_group_location = "rg"
+resource_group_location = "myrg"
 product_name = "dso"
 app_name = "vaw-app"
